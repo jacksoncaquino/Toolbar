@@ -7,7 +7,7 @@ I have created buttons to host some of the tools that are described in other pro
 
 ## Buttons to make annual pay range refreshes easier
 ![image](https://github.com/user-attachments/assets/63f22f31-543e-4e52-85a3-945de44c43ce)
-When doing our market studies, it's not uncommon to find countries where the currencies make it in a way that pay range midpoints had too many zeroes. I've created buttons to make it easier to select a few jobs and increase them by a certain percentage, as well as checking if the person pricing the job is following all the rules we had previously agreed upon.
+[br]When doing our market studies, it's not uncommon to find countries where the currencies make it in a way that pay range midpoints had too many zeroes. I've created buttons to make it easier to select a few jobs and increase them by a certain percentage, as well as checking if the person pricing the job is following all the rules we had previously agreed upon.
 
 ## Creating EIBs for Workday integrations
 ![image](https://github.com/user-attachments/assets/e9b7487c-36d6-41e6-a82c-b95891a730f1)
